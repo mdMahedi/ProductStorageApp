@@ -1,0 +1,25 @@
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe.config
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.pdb
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.productStorageUI.resources
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.Properties.Resources.resources
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csproj.GenerateResource.Cache
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.exe
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.pdb
+D:\BITM\HW\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csprojResolveAssemblyReference.cache
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe.config
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.exe
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.pdb
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.pdb
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.productStorageUI.resources
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.Properties.Resources.resources
+F:\Mahedi C#\BASIS\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csproj.GenerateResource.Cache
+D:\BITM\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe.config
+D:\BITM\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.exe
+D:\BITM\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.pdb
+D:\BITM\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.exe
+D:\BITM\ProductStorageApp\ProductStorageApp\bin\Debug\ProductStorageApp.pdb
+D:\BITM\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.productStorageUI.resources
+D:\BITM\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.Properties.Resources.resources
+D:\BITM\ProductStorageApp\ProductStorageApp\obj\Debug\ProductStorageApp.csproj.GenerateResource.Cache
